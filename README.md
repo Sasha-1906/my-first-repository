@@ -1,6 +1,6 @@
-# heading 1
-## heading 2
-### heading 3
+# Hi there!
+## My name is Sasha but you can call me Sushi
+### this is my first time coding
 
 `//this is a single line of code`
 
@@ -8,12 +8,14 @@
 //multiple lines of code can go here
 for(int 1=0; i < 10; i++)
 {
-	Console.WriteLine(i);
+	Console.WriteLine("Welcome to my code!");
 }
 ```
-this is a list:
-+ list item 1
-- list item 2
+My Goals!:
++ stay positive
+- work hard
++ become the coding master of the world
 
-1. list item 1
-2. list item 2
+Every morning steps:
+1. start everyday with a good attitude and music
+2. find ways and means of taking over the world
