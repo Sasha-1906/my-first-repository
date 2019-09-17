@@ -2,10 +2,10 @@
 ## My name is Sasha but you can call me Sushi
 ### this is my first time coding
 
-`//this is a single line of code`
+`//*fancy* **hectic**`
 
 ```
-//multiple lines of code can go here
+//my code can go here
 for(int 1=0; i < 10; i++)
 {
 	Console.WriteLine("Welcome to my code!");
