@@ -2,7 +2,7 @@
 ## My name is Sasha but you can call me Sushi
 ### this is my first time coding
 
-`//*fancy* **hectic**`
+`*fancy* **hectic**`
 
 ```
 //my code can go here
